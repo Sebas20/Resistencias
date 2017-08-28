@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Resistencias</string>
+    <string name="franja_1">Franja 1 :</string>
+    <string name="franja_3">Franja 3 :</string>
+    <string name="franja_2">Franja 2 :</string>
+    <string name="tolerancia">Tolerancia :</string>
+    <string name="titulo">Calculo Valor Resistencia</string>
+    <string name="calcular">Calcular</string>
+    <string name="salir">SALIR</string>
+
+    <string-array name="colores">
+        <item>Negro</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blaco</item>
+    </string-array>
+</resources>
